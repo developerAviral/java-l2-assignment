@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c86f249-a55d-45ea-818d-8e23e86460f3" name="Default" comment="" />
+    <list default="true" id="f5ee7109-c858-4cc6-a01a-0197fe352d77" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,13 +11,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImplClassWithLambda.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wipro/ImplClassWithLambda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterOccurence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wipro/CharacterOccurence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/wipro/CharacterOccurence.java" />
+        <option value="$PROJECT_DIR$/src/com/wipro/ImplClassWithLambda.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/sourceTestData.txt" />
       </list>
     </option>
   </component>
@@ -32,25 +69,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Assignment-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment-3" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment-1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Assignment-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment-3" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wipro" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -68,7 +111,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Assignment-3" />
+      <module name="Assignment-1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -84,20 +127,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6c86f249-a55d-45ea-818d-8e23e86460f3" name="Default" comment="" />
-      <created>1569756748078</created>
+      <changelist id="f5ee7109-c858-4cc6-a01a-0197fe352d77" name="Default" comment="" />
+      <created>1569768980787</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569756748078</updated>
+      <updated>1569768980787</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32968536" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -108,7 +152,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1796875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -128,27 +172,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/destTestData.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/wipro/CharacterOccurence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sourceTestData.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/wipro/ImplClassWithLambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
